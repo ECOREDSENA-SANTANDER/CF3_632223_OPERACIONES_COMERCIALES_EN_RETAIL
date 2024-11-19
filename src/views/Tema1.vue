@@ -13,23 +13,23 @@
         
         .tarjetaf.p-4.mb-4
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 p.mb-4 La venta al detalle o #[em retail] es un sistema de comercialización que entrega el producto directamente al cliente. En este sentido, los canales de venta son fundamentales para su éxito y para lograr la diferenciación comercial. Por esta razón, las empresas dedican gran parte de sus esfuerzos al diseño y a la experiencia de compra. 
-              .col-lg-5.col-md-9.col-12
+              .col-lg-4.col-md-7
                 img(alt="" src="@/assets/curso/tema1/2.png")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 p.mb-4 Además, la industria del #[em retail] se percibe como un negocio habitual, porque la sociedad piensa que se trata de empresas enfocadas en alcanzar buenas negociaciones, lo que se logra haciendo presión a los proveedores para poder vender los bienes y servicios a precios bajos.
-              .col-lg-5.col-md-9.col-12
+              .col-lg-4.col-md-7
                 img(alt="" src="@/assets/curso/tema1/3.png")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 p.mb-4 Sin embargo, el mundo del #[em retail] ha ido evolucionando bastante en los últimos años. Empresas de grandes superficies o grandes almacenes como Carrefour, El Corte Inglés y Walmart, cada vez se vuelven más sofisticadas.   
-              .col-lg-5.col-md-9.col-12
+              .col-lg-4.col-md-7
                 img(alt="" src="@/assets/curso/tema1/4.png")
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12.col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -46,50 +46,50 @@
     #t_1_1.titulo-segundo.mb-5
       h2 1.1	Establecimiento comercial
 
-    p.mb-4 El punto de venta es el lugar donde se lleva a cabo la actividad comercial; no es donde se fabrican los bienes o servicios, sino donde se comercializan. Por esta razón, se refiere a un espacio físico en el que se pueden vender y comprar productos. 
-    p.mb-4 Para poder tener un establecimiento comercial se necesitan los siguientes elementos:
+    p.mb-4(data-aos="fade-right") El punto de venta es el lugar donde se lleva a cabo la actividad comercial; no es donde se fabrican los bienes o servicios, sino donde se comercializan. Por esta razón, se refiere a un espacio físico en el que se pueden vender y comprar productos. 
+    p.mb-4(data-aos="fade-left") Para poder tener un establecimiento comercial se necesitan los siguientes elementos:
 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
         PasosA.color-secundario.mb-5(tipo="n")
           .row.align-items-center
             .col-lg
-              h3 Un espacio físico
+              h4 Un espacio físico
               p Se refiere al local o la tienda donde se ofrecen los productos. Dependiendo del tipo de establecimiento comercial, el espacio físico puede contar con parqueadero, sala de ventas, servicios sanitarios y otros servicios adicionales que sirven para mejorar la atención al cliente.
             .col-auto
               figure(data-aos="zoom-in")
-                img.d-none.d-lg-block(src='@/assets/curso/tema1/6.svg', alt='')
+                img.d-none.d-lg-block(src='@/assets/curso/tema1/6.png', alt='')
           .row.align-items-center
             .col-auto
               figure(data-aos="zoom-in")
                 img.d-none.d-lg-block(src='@/assets/curso/tema1/7.svg', alt='')
             .col-lg
-              h3.text-left Productos
+              h4.text-left Productos
               p.text-left Son todos los bienes y servicios que se ofrecen en el espacio físico. Si el establecimiento es una relojería, los productos son relojes; si es una empresa de telecomunicaciones, un servicio podría ser la conexión a internet.
           .row.align-items-center
             .col-lg
-              h3 Vendedores
+              h4 Vendedores
               p Son la fuerza de ventas del establecimiento y los que se van a encargar de atender, asesorar y vender los productos a los clientes. En otras palabras, son quienes logran que los clientes efectúen las acciones de compra.
             .col-auto
               figure(data-aos="zoom-in")
-                img.d-none.d-lg-block(src='@/assets/curso/tema1/8.svg', alt='')
+                img.d-none.d-lg-block(src='@/assets/curso/tema1/8.png', alt='')
           .row.align-items-center
             .col-auto
               figure(data-aos="zoom-in")
-                img.d-none.d-lg-block(src='@/assets/curso/tema1/9.svg', alt='')
+                img.d-none.d-lg-block(src='@/assets/curso/tema1/9.png', alt='')
             .col-lg
-              h3.text-left Compradores
+              h4.text-left Compradores
               p.text-left Estas son las personas, clientes y consumidores que llegan al establecimiento para realizar una compra, ya sea de un bien o de un servicio.
 
-    p.mb-0 Con estos cuatro elementos se puede generar la transacción de compra y venta en cualquier establecimiento comercial.  
+    p.mb-0(data-aos="fade-right") Con estos cuatro elementos se puede generar la transacción de compra y venta en cualquier establecimiento comercial.  
     
     separador
     #t_1_2.titulo-segundo.mb-4
       h2 1.2	Formatos comerciales
 
-    .row.justify-content-center.align-items-end.mb-4
-      .col-lg-4.col-md-9.col-9.mb-4
+    .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
+      .col-lg-4.col-md-7.col-9.mb-4
         img.img-a.img-t(src='@/assets/curso/tema1/10.svg', alt='tema1')
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-4 En Colombia existe una tendencia que ha gustado en los clientes; se trata de preferir nuevos formatos y canales comerciales de venta directa e independiente con precios económicos en distintos productos. Así, se obtiene un gran beneficio a través de productos que se consideran de buena calidad, presentación, que están distribuidos en espacios limpios y atendidos por un personal capacitado y joven. 
@@ -97,10 +97,10 @@
           p.mb-4 #[b D1, Ara y Justo & Bueno] son ejemplos de lo anterior. Presentan un comportamiento dinámico e innovador, con una excelente aceptación por parte de la sociedad. Estos establecimientos pertenecen al sector del descuento duro #[em #[b (hard discount)]] y se caracterizan por ofrecer precios económicos, especialmente en productos de la canasta familiar, en comparación con los establecimientos tradicionales. Esta estrategia ha llevado a que muchos clientes los prefieran a la hora de hacer sus compras.
           p.mb-0 Sus tiendas son sencillas, no realizan inversiones en publicidad, cuentan con pocos empleados, no tienen impulsadores y ofrecen productos de pequeños y medianos proveedores que, con precios económicos, intentan mantenerse en el mercado.
 
-    p.mb-4 Con estos cambios y la evolución en el sector #[em retail], se ha generado una transformación en el comportamiento del consumidor y en sus hábitos de compra. Los productos de marca propia que se ofrecen en estas tiendas de venta al por menor emergen como una nueva alternativa para los clientes. Además, esta tendencia permite que empresas, principalmente pymes colombianas, se involucren como proveedores, contribuyendo a la generación de empleo y al desarrollo económico local (Vigaray, 2005).
-    p.mb-4 A continuación, se presentan los tipos de formatos comerciales tradicionales:
+    p.mb-4(data-aos="fade-right") Con estos cambios y la evolución en el sector #[em retail], se ha generado una transformación en el comportamiento del consumidor y en sus hábitos de compra. Los productos de marca propia que se ofrecen en estas tiendas de venta al por menor emergen como una nueva alternativa para los clientes. Además, esta tendencia permite que empresas, principalmente pymes colombianas, se involucren como proveedores, contribuyendo a la generación de empleo y al desarrollo económico local (Vigaray, 2005).
+    p.mb-4(data-aos="fade-left") A continuación, se presentan los tipos de formatos comerciales tradicionales:
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")
       .row.col-xl-11.m-auto(titulo="Tiendas")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-8
@@ -178,20 +178,20 @@
               .col-lg-8
                 img.img-a.img-t(src="@/assets/curso/tema1/19.svg")
     
-    P.mb-0 Se puede afirmar que los establecimientos comerciales son espacios físicos cruciales donde se promocionan y ofrecen bienes y servicios, facilitando así el proceso de compra para los clientes. Según el tipo de consumidor que atienden, los productos que ofrecen y el tamaño del local, estos establecimientos pueden variar en su naturaleza.
+    P.mb-0(data-aos="fade-right") Se puede afirmar que los establecimientos comerciales son espacios físicos cruciales donde se promocionan y ofrecen bienes y servicios, facilitando así el proceso de compra para los clientes. Según el tipo de consumidor que atienden, los productos que ofrecen y el tamaño del local, estos establecimientos pueden variar en su naturaleza.
 
     separador
     #t_1_3.titulo-segundo.mb-5
       h2 1.3	Arquitectura del establecimiento
     
-    p.mb-4 Hay diferentes tipos de arquitectura que se pueden apreciar en los diferentes establecimientos, como las siguientes:
+    p.mb-4(data-aos="fade-right") Hay diferentes tipos de arquitectura que se pueden apreciar en los diferentes establecimientos, como las siguientes:
   
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/tema1/ic.svg', alt='')
         h3.mb-0.ms-2 La arquitectura exterior del establecimiento
     
-    p.mb-4 Son cuatro los elementos que conforman el diseño exterior de cualquier establecimiento. Estos elementos ayudan a mostrar la personalidad e identidad de una marca, contribuyendo a posicionar su imagen corporativa en la mente de los consumidores (Borja, 2021). Estas son:
+    p.mb-4(data-aos="fade-right") Son cuatro los elementos que conforman el diseño exterior de cualquier establecimiento. Estos elementos ayudan a mostrar la personalidad e identidad de una marca, contribuyendo a posicionar su imagen corporativa en la mente de los consumidores (Borja, 2021). Estas son:
 
     .row.mb-4
       .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
@@ -234,7 +234,7 @@
         img(src='@/assets/curso/tema1/ic.svg', alt='')
         h3.mb-0.ms-2 La arquitectura interior del establecimiento comercial
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12
         p.mb-4 El objetivo de su diseño es la creación de un flujo de circulación de clientes que está estratégicamente dirigido en dirección de lugares dentro del establecimiento que, psicológicamente, manipulan y provocan una positiva actitud de compra. Para conseguirlo, resulta fundamental el estudio de los elementos que forman la arquitectura interior.
         p.mb-4 Así como en la arquitectura exterior, en el interior del establecimiento se debe planear una serie de funciones que permitan certificar el éxito y la calidad del trabajo desarrollado. Para ello, el encargado del #[em merchandising] debe resolver dónde localizar y cómo organizar los elementos presentes en la arquitectura interior (Borja, 2021).
@@ -242,11 +242,11 @@
       .col-lg-4.col-md-9.col-9
         img.d-none.d-lg-block(src='@/assets/curso/tema1/24.png', alt='')
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema1/5.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/34.png')})`}"
           )
           .bloque-texto-g__texto.p-4
             h4 Puntos de acceso
@@ -262,7 +262,7 @@
     
     p.mb-4 Son zonas imaginarias que dividen el espacio en dos partes iguales de la siguiente forma:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12    
         .tarjeta--container.row.mb-4
           .col-md.tarjeta.color-primario.bd.p-4
@@ -285,7 +285,7 @@
         img(src='@/assets/curso/tema1/ic.svg', alt='')
         h3.mb-0.ms-2 Zonas
 
-    p.mb-4 Estas se identifican según sea el punto de acceso:
+    p.mb-4(data-aos="fade-left") Estas se identifican según sea el punto de acceso:
 
     .row.fondo1.align-items-center.p-3.mb-5(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -293,7 +293,7 @@
         
         .tarjetaf.p-4.mb-4
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Puerta a la derecha
                 p.mb-4 Cuando el lugar de acceso está a la derecha, las zonas resultan de una línea diagonal que nace en el ángulo extremo izquierdo del punto de acceso y va hasta el ángulo extremo derecho más profundo de la superficie del establecimiento.
@@ -302,7 +302,7 @@
                   h5 Figura 1. 
                   | Puerta a la derecha
                 img(alt="Se trata de una línea diagonal que se extiende desde el ángulo extremo izquierdo del punto de acceso hasta el ángulo extremo derecho más profundo del establecimiento." src="@/assets/curso/tema1/27.svg")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Puerta a la izquierda
                 p.mb-4 Es lo contrario a la puerta anterior; es la línea diagonal que nace en el ángulo extremo derecho del punto de acceso y va hasta el ángulo extremo izquierdo más profundo de la superficie del establecimiento.
@@ -311,7 +311,7 @@
                   h5 Figura 2. 
                   | Puerta a la izquierda
                 img(alt="Se trata de una línea diagonal que se extiende desde el ángulo extremo derecho del punto de acceso hasta el ángulo extremo izquierdo más alejado dentro de la superficie del establecimiento." src="@/assets/curso/tema1/28.svg")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Puerta en el centro
                 p.mb-4 Se define de acuerdo con la circulación del cliente. Se traza una línea recta vertical hasta el centro del establecimiento y de ahí se traza otra línea recta horizontal hacia el costado izquierdo de la superficie del local.
@@ -320,7 +320,7 @@
                   h5 Figura 3. 
                   | Puerta en el centro
                 img(alt="Se trata de una línea vertical desde el punto de acceso hasta el centro del establecimiento, y luego una línea horizontal desde ese punto central hacia el costado izquierdo de la superficie del local." src="@/assets/curso/tema1/29.svg")
-            .row.justify-content-center.align-items-center.p-4
+            .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Dos puertas
                 p.mb-4 Por teoría, prácticamente carece de zonas frías ya que la circulación fluye de acuerdo al ingreso de las dos puertas. Por esto es vital encontrar la localización de las zonas para ubicar las secciones de forma estratégica.
@@ -335,10 +335,10 @@
         img(src='@/assets/curso/tema1/ic.svg', alt='')
         h3.mb-0.ms-2 Ubicación de las secciones
 
-    p.mb-4 Es la manera en que se organizan las distintas áreas del establecimiento. Incluye la disposición de los productos en las diferentes secciones, así como la planificación de las zonas de circulación, las zonas frías y las zonas calientes. Por ejemplo, la sección a la derecha puede estar dedicada al aseo personal, mientras que la sección a la izquierda se destina al aseo para el hogar.
-    p.mb-4 La cantidad de secciones va a depender del tipo de local:
+    p.mb-4(data-aos="fade-right") Es la manera en que se organizan las distintas áreas del establecimiento. Incluye la disposición de los productos en las diferentes secciones, así como la planificación de las zonas de circulación, las zonas frías y las zonas calientes. Por ejemplo, la sección a la derecha puede estar dedicada al aseo personal, mientras que la sección a la izquierda se destina al aseo para el hogar.
+    p.mb-4(data-aos="fade-left") La cantidad de secciones va a depender del tipo de local:
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-5(data-aos="fade-right")
       .row.col-xl-11.m-auto(titulo="Local especializado – Local ultraespecializado")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-6
@@ -372,19 +372,8 @@
             img(src='@/assets/curso/tema1/ic.svg', alt='')
             h3.mb-0.ms-2 Diseño de pasillos
         p.mb-4 Los pasillos son los espacios por donde transitan los clientes en el establecimiento, y deben tener un diseño especial e impactante que facilite la compra por parte de los clientes, favoreciendo su andar buscando los productos que necesita comprar. La dimensión o espacio de los pasillos puede representar el éxito o el fracaso del establecimiento, porque si son muy estrechos, no habrá facilidad en la circulación, y si son muy anchos disminuirá la superficie destinada para la venta.
-      .col-lg-4.col-md-9.col-9
+      .col-lg-4.col-md-7.col-9
         img(src="@/assets/curso/tema1/33.png" alt='')
-
-
-                
-
-
-
-
-
-
-
-
 
 </template>
 

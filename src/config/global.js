@@ -89,7 +89,7 @@ export default {
           },
           {
             numero: '2.6',
-            titulo: '<em>merchandising</em>',
+            titulo: '<em>Merchandising</em>',
             hash: 't_2_6',
           },
           {
