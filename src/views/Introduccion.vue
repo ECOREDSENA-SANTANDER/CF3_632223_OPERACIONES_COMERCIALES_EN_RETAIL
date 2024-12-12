@@ -16,7 +16,7 @@
         figure(data-aos="fade-right").py-2
           .video.mb-1
             iframe(width="560" height="315" src="https://www.youtube.com/embed/97RYBVUwFyg?si=KHp58vRzzCOxTiZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-          figcaption Video. Exhibición y vitrinismo en el formato comercial: Introducción
+          figcaption Video. Exhibición y vitrinismo en el formato comercial: introducción
 
 
 
