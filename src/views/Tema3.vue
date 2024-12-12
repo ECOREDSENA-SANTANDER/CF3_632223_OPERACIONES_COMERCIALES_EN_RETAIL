@@ -32,7 +32,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10.col-md-12.col-12  
         .cajon.color-acento-contenido.p-4
-          p.mb-0 #[b El principio fundamental del mobiliario es ofrecer y disponer de los productos, cautivar y llamar la atención del cliente, y finalmente, motivarlos a una acción de compra (Publicaciones Vértice, 2010).]
+          p.mb-0 El principio fundamental del mobiliario es ofrecer y disponer de los productos, cautivar y llamar la atención del cliente, y finalmente, motivarlos a una acción de compra (Publicaciones Vértice, 2010).
       
     separador
     #t_3_1.titulo-segundo.mb-5
@@ -113,7 +113,7 @@
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 #[b La gestión estratégica de la rotación de los productos que conforman una categoría específica permite organizar de manera sencilla y práctica la ubicación de la mercancía en el punto de ventas. La idea es organizar las diferentes categorías que constituyen el surtido del establecimiento, en pro de mejorar el nivel de ventas en un determinado período de tiempo. ]
+        p.mb-4 La gestión estratégica de la rotación de los productos que conforman una categoría específica permite organizar de manera sencilla y práctica la ubicación de la mercancía en el punto de ventas. La idea es organizar las diferentes categorías que constituyen el surtido del establecimiento, en pro de mejorar el nivel de ventas en un determinado período de tiempo. 
         p.mb-4 El método ABC de clasificación de inventarios admite ordenar la distribución de los distintos artículos dentro del establecimiento según sea la popularidad, valor, rotación e importancia para la marca. Con este método se le da más importancia en la ubicación de los productos al aporte económico que suponen para la empresa. Y se basa en el principio de Pareto o regla del 80/20, que enseña que el 20% del esfuerzo es responsable del 80% de los resultados. Si se emplea en el ecosistema del establecimiento, el 20% de los productos generan el 80% de los movimientos de mercancía, mientras que el 80% de los artículos ocasiona el sobrante 20% de movimientos (Borja, 2021). 
         p.mb-4 Las referencias se clasifican, entonces, en los siguientes tres niveles:
       .col-lg-4.col-md-7.col-8.mb-4(data-aos="fade-right")
@@ -128,8 +128,8 @@
             .row.justify-content-center.align-items-center
               .col-lg-12  
                 .cajon.color-acento-contenido.p-4.mb-4 
-                  p.mb-0 #[b Por cantidad, solo ocupan por lo general el 20% de los inventarios, pero, en realidad, son los productos que tienen más rotación y, por tanto, tienen una jerarquía estratégica. Las referencias A se refiere a aquellos artículos donde el establecimiento tiene una inversión más alta de su presupuesto y por lo tanto generan el 80% de los ingresos, por lo que es muy importante que no existan roturas de stock (inventario).]
-                p.mb-4 También pertenecen a este grupo los SKU (Stock-#[em keeping Unit] o referencia) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta. Se recomienda conservar un control exhaustivo del inventario de aquellas referencias que se clasificaron como A con renovación frecuente, o incluso permanente. A la hora de situar las referencias A en la góndola, tienden a ubicarse en zonas que tengan un acceso directo y fácil para el operario y, además, que estén cerca de los muelles de salida o de carga dentro del local.
+                  p.mb-0 Por cantidad, solo ocupan por lo general el 20% de los inventarios, pero, en realidad, son los productos que tienen más rotación y, por tanto, tienen una jerarquía estratégica. Las referencias A se refiere a aquellos artículos donde el establecimiento tiene una inversión más alta de su presupuesto y por lo tanto generan el 80% de los ingresos, por lo que es muy importante que no existan roturas de #[em stock] (inventario).
+                p.mb-4 También pertenecen a este grupo los SKU (#[em Stock-keeping Unit] o referencia) que, por sus características, son de vital importancia para el buen funcionamiento del punto de venta. Se recomienda conservar un control exhaustivo del inventario de aquellas referencias que se clasificaron como A con renovación frecuente, o incluso permanente. A la hora de situar las referencias A en la góndola, tienden a ubicarse en zonas que tengan un acceso directo y fácil para el operario y, además, que estén cerca de los muelles de salida o de carga dentro del local.
                 p.mb-0 Ejemplos: secciones que presentan rotación alta y que están conformadas por familias de productos perecederos de diversa naturaleza como por ejemplo carnicería, pescadería, panadería, frutas y verduras, lácteos, aceites y refrescos. Y en cuanto a su ubicación en el punto de venta se sitúan en la zona fría, con el objetivo de generar tránsito de clientes hacia ese cuadrante.
       .py-md-4(titulo="Artículos con rotación B")
         .row.justify-content-center.align-items-center
@@ -139,7 +139,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12  
                 .cajon.color-acento-contenido.p-4.mb-4 
-                  p.mb-0 #[b Son aquellas referencias que se encuentran en la franja de rotación media y suelen representar, por volumen, el 30% de los inventarios. No se renuevan con tanta frecuencia como los de la referencia A, por lo que su valor e importancia es menor.]
+                  p.mb-0 Son aquellas referencias que se encuentran en la franja de rotación media y suelen representar, por volumen, el 30% de los inventarios. No se renuevan con tanta frecuencia como los de la referencia A, por lo que su valor e importancia es menor.
                 p.mb-4 Sin embargo, se debe estar atento a la evolución de estas referencias B por si, en algún momento, pueden pasar a rotación A o, en caso contrario, convertirse en referencia C. El abastecimiento de este tipo de existencias puede funcionar con la regla del inventario mínimo/máximo, ya que no están sujetos a un control exhaustivo sobre las compras emitiendo pedidos continuamente, como los productos de referencia A. Su ubicación en góndola es en zonas de altura intermedia donde su acceso no es tan directo como los artículos A, pero que tampoco implican ser inaccesibles.
                 p.mb-0 Ejemplos: secciones de media rotación formadas por familias de artículos de diferente naturaleza como por ejemplo congelados, textil hogar, textil moda, higiene personal, calzado, electrodomésticos, entre otras. Y en cuanto a la ubicación en el punto de venta se sitúan localizados en una zona intermedia, es decir, entre la zona caliente y la zona fría.
       .py-md-4(titulo="Artículos con rotación C")
@@ -150,17 +150,14 @@
             .row.justify-content-center.align-items-center
               .col-lg-12  
                 .cajon.color-acento-contenido.p-4.mb-4 
-                  p.mb-0 #[b Son los más numerosos, llegando a tener el 50% de las referencias almacenadas y, además, son los menos solicitados por los clientes. Como no son productos estratégicos no van a tener recursos siendo más modestos, y el reabastecimiento suele ajustarse con stocks de seguridad (productos que evitan la rotura del stock). Se aconseja vigilarlos para que no finalicen formando un inventario obsoleto y de muy poca rotación. Aquí, el establecimiento se debe preguntar: ¿conviene invertir parte del presupuesto en el mantenimiento de stock con referencia C?.]
+                  p.mb-0 Son los más numerosos, llegando a tener el 50% de las referencias almacenadas y, además, son los menos solicitados por los clientes. Como no son productos estratégicos no van a tener recursos siendo más modestos, y el reabastecimiento suele ajustarse con #[em stocks] de seguridad (productos que evitan la rotura del #[em stock]). Se aconseja vigilarlos para que no finalicen formando un inventario obsoleto y de muy poca rotación. Aquí, el establecimiento se debe preguntar: ¿conviene invertir parte del presupuesto en el mantenimiento de #[em stock] con referencia C?
                 p.mb-4 En cuanto a su ubicación en góndola, se sitúan en las zonas más altas o menos accesibles, además de estar más alejados de los muelles de salida o de carga, precisamente porque se requiere acceder a ellos de manera esporádica.
                 p.mb-0 Ejemplos: secciones de productos de baja rotación como por ejemplo tornillos, tuercas, clavos, cadenas, cuerdas, mangueras, químicos para limpieza, entre otros. Y en cuanto a su ubicación son situados en la zona caliente, con el fin de incrementar sus posibilidades para ser vistos por los clientes.
     
     .row.justify-content-center.align-items-center
       .col-lg-8
         p.mb-4 Se debe recordar que las secciones son unidades independientes de negocio en las que normalmente son agrupadas varias categorías homogéneas de productos, que a su vez son afines a las necesidades que satisfacen los artículos conformados en cada sección; y además, que las categorías de productos son divisiones dentro de la sección en las que son agrupadas varias familias, formando conjuntos de productos que los clientes perciben como conectados en la satisfacción de una necesidad o de un concepto estratégico específico. Esta conexión posee dos formas de presentación en función de cómo sean agrupados de manera estratégica los productos que la conforman: categorías operativas y categorías conceptuales.
-        .subt.mb-2(data-aos="fade-right")
-          .d-flex.align-items-center.mb-1
-            img(src='@/assets/curso/tema1/ic.svg', alt='')
-            h3.mb-0.ms-2 Adicionalmente, a este Método ABC, se le puede sumar un cuarto nivel:
+        p.mb-4 Adicionalmente, a este Método ABC, se le puede sumar un cuarto nivel:
       .col-lg-4.col-md-9.col-9
         img(src='@/assets/curso/tema3/16.png', alt='')
     
@@ -176,16 +173,16 @@
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-8
-        p.mb-4 #[b La codificación de artículos en el establecimiento hace que se tenga una buena organización del inventario, por esto influye de manera positiva en todas las actividades que se realicen en el punto de venta. Por ello, la importancia de que cada producto esté identificado desde antes de que el cliente lo ubique en su carrito de compra.]
+        p.mb-4 La codificación de artículos en el establecimiento hace que se tenga una buena organización del inventario, por esto influye de manera positiva en todas las actividades que se realicen en el punto de venta. Por ello, la importancia de que cada producto esté identificado desde antes de que el cliente lo ubique en su carrito de compra.
         p.mb-4 El proceso de codificación de productos radica en identificar los artículos sin equivocación con un código o signo. Código que se asocia a una etiqueta que se adhiere al producto y que va a permitir el acceso a él de forma electrónica. Los más usados son los códigos de barras y las etiquetas RFID (etiquetas autoadhesivas, flexibles y delgadas, con impresión frontal humanamente visible).
-        p.mb-0 #[b Codificar significa fijar un código a un artículo.] Con este código se puede conocer algunas de sus características principales como por ejemplo la referencia, fecha de llegada al almacén, fechas de envasado y de expiración e ingredientes, entre otras. Su finalidad es identificar los artículos de forma unívoca (no pueden existir dos artículos con el mismo código). El sistema de gestión de bodegas (WMS - Warehouse Management System) tiene un papel preponderante en este proceso porque es el que crea el código de cada artículo, fija las ubicaciones de los artículos en el punto de venta y controla su trazabilidad. 
+        p.mb-0 Codificar significa fijar un código a un artículo. Con este código se puede conocer algunas de sus características principales como por ejemplo la referencia, fecha de llegada al almacén, fechas de envasado y de expiración e ingredientes, entre otras. Su finalidad es identificar los artículos de forma unívoca (no pueden existir dos artículos con el mismo código). El sistema de gestión de bodegas (WMS - Warehouse Management System) tiene un papel preponderante en este proceso porque es el que crea el código de cada artículo, fija las ubicaciones de los artículos en el punto de venta y controla su trazabilidad. 
       .col-lg-4.col-md-9.col-9
         img(src='@/assets/curso/tema3/17.png', alt='')
   
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10  
         .cajon.color-acento-contenido.p-4
-          p.mb-0 #[b Actualmente hay tendencias como las entregas extrarrápidas o el acopio de mercancías de un tamaño menor han dado como resultado una complicación en los procesos del establecimiento. Por ello, se hace vital que se pueda instaurar un control íntegro de los productos, registrando todos sus movimientos con el fin de hacer un estudio exacto sobre los flujos de mercancía para poderlos optimizar. Gracias a esta codificación y a la asistencia de la gestión de bodegas - WMS, los operarios pueden localizar y expedir productos más rápidamente y con menores errores (Publicaciones Vértice, 2010).]
+          p.mb-0 Actualmente hay tendencias como las entregas extrarrápidas o el acopio de mercancías de un tamaño menor han dado como resultado una complicación en los procesos del establecimiento. Por ello, se hace vital que se pueda instaurar un control íntegro de los productos, registrando todos sus movimientos con el fin de hacer un estudio exacto sobre los flujos de mercancía para poderlos optimizar. Gracias a esta codificación y a la asistencia de la gestión de bodegas - WMS, los operarios pueden localizar y expedir productos más rápidamente y con menores errores (Publicaciones Vértice, 2010).
 
     separador
     #t_3_4.titulo-segundo.mb-5
@@ -253,7 +250,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10  
         .cajon.color-acento-contenido.p-4
-          p.mb-0 #[b Dentro de este esquema básico de desarrollo de estrategias, las marcas tienen la oportunidad de crear múltiples formas a la hora de fijar los precios. El objetivo principal siempre debe ser el aumento en la rentabilidad y los ingresos para la empresa, por eso se debe ser creativo y estratégico a la hora de crear las estrategias de precio (Kotler y Armstrong, 2013).]
+          p.mb-0 Dentro de este esquema básico de desarrollo de estrategias, las marcas tienen la oportunidad de crear múltiples formas a la hora de fijar los precios. El objetivo principal siempre debe ser el aumento en la rentabilidad y los ingresos para la empresa, por eso se debe ser creativo y estratégico a la hora de crear las estrategias de precio (Kotler y Armstrong, 2013).
     
     separador
     #t_3_5.titulo-segundo.mb-4
@@ -280,7 +277,7 @@
         img(src='@/assets/curso/tema1/ic.svg', alt='')
         h3.mb-0.ms-2 Dimensiones de la activación de marca
     
-    p.mb-4(data-aos="fade-right") La activación de marca debe ser de 360º, o sea, usando medios masivos y medios alternativos, para poder comprender todas las dimensiones a través de las cuales pueda crear un vínculo con su público objetivo. Es primordial que estas dimensiones tengan coherencia entre sí y con la marca, que expresen la intención corporativa y que hablen el mismo lenguaje de la marca. Las dimensiones son:
+    p.mb-4(data-aos="fade-right") La activación de marca debe ser de 360 º, o sea, usando medios masivos y medios alternativos, para poder comprender todas las dimensiones a través de las cuales pueda crear un vínculo con su público objetivo. Es primordial que estas dimensiones tengan coherencia entre sí y con la marca, que expresen la intención corporativa y que hablen el mismo lenguaje de la marca. Las dimensiones son:
     
     .row.mb-4
       .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
@@ -304,14 +301,14 @@
             .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-4 #[b Entornos digitales]
-                p.mb-0 Se refiere a internet y su ecosistema digital, que incluye el sitio #[em web], aplicaciones, redes sociales, #[em blogs, chats,] entre otros. A través de estos canales, los clientes pueden establecer un vínculo con la marca después de la activación, y también compartir sus experiencias con sus contactos. La presencia en estos medios, junto con la gestión de perfiles, mensajes, identidad, y la capacidad de diálogo, interacción y retroalimentación con los clientes, hace que esta dimensión sea fundamental en la activación de las marcas. 
+                p.mb-0 Se refiere a internet y su ecosistema digital, que incluye el sitio web, aplicaciones, redes sociales, #[em blogs, chats,] entre otros. A través de estos canales, los clientes pueden establecer un vínculo con la marca después de la activación, y también compartir sus experiencias con sus contactos. La presencia en estos medios, junto con la gestión de perfiles, mensajes, identidad, y la capacidad de diálogo, interacción y retroalimentación con los clientes, hace que esta dimensión sea fundamental en la activación de las marcas. 
           .tarjeta.color-acento-botones.bg7.p-4(titulo="Entornos físicos")
             .row.justify-content-center.align-items-center
               .col-lg-12
                 p.mb-4 #[b Entornos físicos]
                 p.mb-0 Se refiera a permitirle al cliente de poder interactuar a través de ambientes físicos como por ejemplo las oficinas, tiendas o stands en donde el cliente pueda dejar comentarios o sugerencias.
     
-    p.mb-4(data-aos="fade-right") Estas dimensiones podrán ser dispuestas por cualquier tipo de empresa, así no tengan la oportunidad de estar en los 360º ya que con una buena estrategia en medios alternativos y una buena inversión en la activación podría llamar la atención del cliente. Para una empresa del sector #[em retail], las dimensiones del entorno físico y las personas son vitales, porque a los clientes los tiene disponibles y cautivos en el momento de la compra dentro del punto de venta y si los trabajadores están comprometidos todo debe salir muy bien a la hora de desarrollar una activación. Eso sí, sin olvidarse de los demás niveles, los cuales deben ser trabajados de manera coherente con la idea y la identidad de la marca para que en medios digitales el cliente tenga la oportunidad de vincularse con la marca y además de referenciarla a sus contactos.
+    p.mb-4(data-aos="fade-right") Estas dimensiones podrán ser dispuestas por cualquier tipo de empresa, así no tengan la oportunidad de estar en los 360 º ya que con una buena estrategia en medios alternativos y una buena inversión en la activación podría llamar la atención del cliente. Para una empresa del sector #[em retail], las dimensiones del entorno físico y las personas son vitales, porque a los clientes los tiene disponibles y cautivos en el momento de la compra dentro del punto de venta y si los trabajadores están comprometidos todo debe salir muy bien a la hora de desarrollar una activación. Eso sí, sin olvidarse de los demás niveles, los cuales deben ser trabajados de manera coherente con la idea y la identidad de la marca para que en medios digitales el cliente tenga la oportunidad de vincularse con la marca y además de referenciarla a sus contactos.
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1

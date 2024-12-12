@@ -352,7 +352,7 @@
                 .titulo-sexto.color-secundario.mb-3
                   h5 Figura 5. 
                   | Local especializado – Local ultraespecializado
-                img(src="@/assets/curso/tema1/31.svg" alt='Local especializado: Tiene pocas secciones pero muchas categorías de productos, con gran profundidad y una estructura de venta tradicional. Local ultraespecializado: Ofrece solo una sección, pero está altamente especializado, como en ropa deportiva, y mantiene una gran profundidad en su oferta.')
+                img(src="@/assets/curso/tema1/31.svg" alt='Local especializado: tiene pocas secciones pero muchas categorías de productos, con gran profundidad y una estructura de venta tradicional. Local ultraespecializado: ofrece solo una sección, pero está altamente especializado, como en ropa deportiva, y mantiene una gran profundidad en su oferta.')
       .row.col-xl-11.m-auto(titulo="Disposición del movimiento")
         .row.justify-content-start.align-items-center.p-0
           .col-lg-6

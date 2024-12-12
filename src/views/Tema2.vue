@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-4 Es el conjunto de productos ofertados por los diferentes establecimientos comerciales y que se encuentran dispuestos para que el consumidor los compre. El surtido se refiere a la variedad de los productos y no a la cantidad, sus objetivos son la satisfacción de las necesidades y deseos de los clientes, y la maximización en la rentabilidad del establecimiento, la cual se mide por metro cuadrado. 
-        p.mb-4 #[b En otras palabras, para definir el surtido se puede decir que es el grupo de referencias o artículos disponibles en el punto de venta. La rentabilidad de la empresa dependerá del valor de la marca, la rotación y composición del surtido] (Puente, 2004).
+        p.mb-4 En otras palabras, para definir el surtido se puede decir que es el grupo de referencias o artículos disponibles en el punto de venta. La rentabilidad de la empresa dependerá del valor de la marca, la rotación y composición del surtido (Puente, 2004).
         p.mb-4 Contar con un buen surtido es crucial para los establecimientos, ya que influye significativamente en la imagen de la marca. Un surtido adecuado ayuda a definir la personalidad de la marca y contribuye en gran medida al éxito empresarial.  
         .cajon.color-acento-contenido.p-4
           p.mb-0 #[b La coherencia del surtido:] es el equilibrio que se consigue entre productos según los criterios de rotación, margen, superficie y lineal disponible, motivación de la clientela, necesidades permanentes y estacionales. La elección del surtido es un acto fundamental ya que, al determinarlo, se satisface a un sector de clientela en detrimento de otro (Salen, 1994).
@@ -25,7 +25,7 @@
       .col-lg-4.col-md-9.col-9.mb-4
         img.d-none.d-lg-block(src='@/assets/curso/tema2/2.png', alt='tema1')
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-3 #[b Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, whisky, ron, aguardiente, brandy, etc.]
+        p.mb-3 Se refiere a los niveles, los cuales se dividen por departamentos, secciones, categorías, familias, subfamilias, artículos y referencias. Por ejemplo, la familia de los licores con productos de vinos comunes, vinos selectos, whisky, ron, aguardiente, brandy, etc.
         p.mb-3 La cantidad de referencias que pone en venta un establecimiento está condicionada por el tamaño del local. Evidentemente, los establecimientos que posean más tamaño tendrán la posibilidad de poner en venta una mayor cantidad de referencias. 
         p.mb-3 Los supermercados, que suelen tener más o menos entre 1.000 m² y 2,500 m², pueden poner en venta aproximadamente 5.300 referencias, y los autoservicios, que son más pequeños en tamaño, máximo 2.900 referencias. Otras variables que influyen en la cantidad de referencias que trabaja un local comercial, son los hábitos de compra del consumidor, la imagen que tenga el establecimiento y su política comercial.
         p.mb-3 La clasificación o estructura del surtido radica en organizar este grupo de referencias en niveles. Tiene un doble propósito: el primero es diferenciar los niveles y el segundo es identificar cuáles niveles poseen mayor o menor rango. En cuanto a la gestión por categorías, la clasificación de referencias se puede distinguir comenzando en la totalidad del surtido y finalizando en las referencias de los artículos; como se puede ilustra en la siguiente figura.
@@ -38,13 +38,13 @@
         ImagenInfografica.color-primario
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema2/3.jpg', alt='Se muestra la clasificación o estructura del surtido consiste en organizar los artículos en grupos o niveles para facilitar su clasificación, identificación y gestión estratégica.')
+                img(src='@/assets/curso/tema2/3.jpg', alt='Se presenta la clasificación o estructura del surtido consiste en organizar los artículos en grupos o niveles para facilitar su clasificación, identificación y gestión estratégica.')
             .tarjeta.colore.p-4(x="5%" y="85.2%" numero="")
               .h5.mb-2 Subfamilias
-              p Se refiere a artículos similares pero que tienen una ligera diferencia, como, por ejemplo, yogures naturales sin azúcar, azucarados o con frutas. La subfamilia para la higiene infantil serían pañales, copitos, champú para niños, lociones, cremas, etc.
+              p Se refiere a artículos similares pero que tienen una ligera diferencia, como, por ejemplo: yogures naturales sin azúcar, azucarados o con frutas. La subfamilia para la higiene infantil serían pañales, copitos, champú para niños, lociones, cremas, etc.
             .tarjeta.colore.p-4(x="10%" y="60%" numero="")
               .h5.mb-2 Familias
-              p Se refiere a artículos que satisfacen una misma necesidad genérica, creando a su vez, distintas categorías de productos. Por ejemplo, las familias de la categoría de aseo personal serían jabones para el cuerpo, champú, higiene infantil, etc.
+              p Se refiere a artículos que satisfacen una misma necesidad genérica, creando a su vez, distintas categorías de productos. Por ejemplo: las familias de la categoría de aseo personal serían jabones para el cuerpo, champú, higiene infantil, etc.
             .tarjeta.colore.p-4(x="20%" y="40%" numero="")
               .h5.mb-2 Subcategorías
               p Son divisiones existentes dentro de una categoría.
@@ -59,10 +59,10 @@
               p Las diferentes opciones en tamaño, color, sabor, etc., que tienen los productos.
             .tarjeta.colore.p-4(x="69%" y="40%" numero="")
               .h5.mb-2 Artículos
-              p También se les puede llamar productos o por su nombre común y natural como por ejemplo leche entera, semideslactosada o deslactosada.
+              p También se les puede llamar productos o por su nombre común y natural como por ejemplo: leche entera, semideslactosada o deslactosada.
             .tarjeta.colore.p-4(x="85%" y="60%" numero="")
               .h5.mb-2 Divisiones
-              p También se conocen como grupos. Por ejemplo, divisiones de alimentación y no alimentación.
+              p También se conocen como grupos. Por ejemplo: divisiones de alimentación y no alimentación.
             .tarjeta.colore.p-4(x="95%" y="85%" numero="")
               .h5.mb-2 Departamentos
               p También se les conoce como sectores. Forman los grandes centros de actividades del establecimiento que agrupan varias secciones para tener un surtido homogéneo y complementario.
@@ -127,7 +127,7 @@
                 .titulo-sexto.color-secundario.mb-3
                   h5 Figura 8. 
                   | Surtido amplio y profundo
-                img(alt="Muestra cuando un establecimiento comercial busca satisfacer una amplia gama de necesidades, ofreciendo a profundidad muchas familias de productos, cada una con numerosas referencias." src="@/assets/curso/tema2/8.svg")
+                img(alt="Presenta cuando un establecimiento comercial busca satisfacer una amplia gama de necesidades, ofreciendo a profundidad muchas familias de productos, cada una con numerosas referencias." src="@/assets/curso/tema2/8.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Surtido amplio y poco profundo
@@ -136,7 +136,7 @@
                 .titulo-sexto.color-secundario.mb-3
                   h5 Figura 9. 
                   | Surtido amplio y poco profundo
-                img(alt="Muestra cuando el establecimiento ofrece muchas familias de productos, pero cada familia tiene una variedad limitada de artículos." src="@/assets/curso/tema2/9.svg")
+                img(alt="Presenta cuando el establecimiento ofrece muchas familias de productos, pero cada familia tiene una variedad limitada de artículos." src="@/assets/curso/tema2/9.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Surtido estrecho y profundo
@@ -145,7 +145,7 @@
                 .titulo-sexto.color-secundario.mb-3
                   h5 Figura 10. 
                   | Surtido estrecho y profundo
-                img(alt="Muestra  buena variedad de productos, pero solo en algunas familias específicas, como en las tiendas de electrodomésticos." src="@/assets/curso/tema2/10.svg")
+                img(alt="Presenta  buena variedad de productos, pero solo en algunas familias específicas, como en las tiendas de electrodomésticos." src="@/assets/curso/tema2/10.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
               .col-lg-7.col-12
                 h4.mb-4 Surtido estrecho y poco profundo
@@ -154,7 +154,7 @@
                 .titulo-sexto.color-secundario.mb-3
                   h5 Figura 11. 
                   | Surtido estrecho y poco profundo
-                img(alt="Muestra cuando el  establecimiento tiene pocas familias y pocas referencias." src="@/assets/curso/tema2/11.svg")
+                img(alt="Presenta cuando el  establecimiento tiene pocas familias y pocas referencias." src="@/assets/curso/tema2/11.svg")
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -220,7 +220,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-3 #[b Es una herramienta muy necesaria para la gestión eficaz del espacio donde se exhiben los productos de los establecimientos minoristas, más aún en la actualidad, porque existe un mercado más complicado y competitivo, en el que ha aumentado el tamaño de las tiendas, las dimensiones del surtido y el número de categorías. Esta herramienta tiene como objetivos mejorar la presentación de los artículos y aumentar las ventas.]
+        p.mb-3 Es una herramienta muy necesaria para la gestión eficaz del espacio donde se exhiben los productos de los establecimientos minoristas, más aún en la actualidad, porque existe un mercado más complicado y competitivo, en el que ha aumentado el tamaño de las tiendas, las dimensiones del surtido y el número de categorías. Esta herramienta tiene como objetivos mejorar la presentación de los artículos y aumentar las ventas.
         p.mb-3 Se puede definir como un instrumento del #[em merchandising] que consiste en el diseño de un boceto, diagrama o croquis a través de un #[em software], donde se describe detalladamente el lugar en el que se van a ubicar los artículos. Además, el planograma detalla la cantidad de productos, el número de #[em facings] (caras) de un mismo producto, cuál es la altura y qué profundidad deben ocupar las distintas referencias señaladas. Se entiende por facing al número de caras de un mismo producto que se necesitan para que se pueda ver por parte del cliente. Por lo tanto, el planograma viene siendo una estrategia de mercadeo que tiene como objetivo hacer visible al producto al interior del establecimiento.
         p.mb-3 La complejidad de un planograma va a depender del tamaño del establecimiento, de las necesidades del detallista o del programa #[em (software)] utilizado para su diseño. Por eso se recomienda que el planograma sea sencillo pero que, a la vez, detalle toda la información necesaria para saber cuál es la ubicación exacta de cada artículo dentro de la tienda. 
       .col-lg-4.col-md-7.col-8.mb-4
@@ -261,7 +261,7 @@
             p.mb-0 Mejora la satisfacción del cliente facilitando las compras a través de lineales ordenados y atractivos visualmente.
           li.d-flex.mb-2
             i.fas.fa-circle-check
-            p.mb-0 Permite una revisión más estricta del inventario al ordenar las estanterías y los #[em facings] (frentes) basándose en la rotación, lo que da como resultado una reducción de las roturas del stock (espacios vacíos). 
+            p.mb-0 Permite una revisión más estricta del inventario al ordenar las estanterías y los #[em facings] (frentes) basándose en la rotación, lo que da como resultado una reducción de las roturas del #[em stock] (espacios vacíos). 
           li.d-flex.mb-2
             i.fas.fa-circle-check
             p.mb-0 Suministra una mejor relación del posicionamiento de los artículos. 
@@ -359,7 +359,7 @@
     #t_2_3.titulo-segundo.mb-5
       h2 2.3 #[em Layout]
   
-    p.mb-4(data-aos="fade-right") #[b Se refiere al diseño o disposición de los productos (bienes y servicios) en sectores o categorías en el punto de venta del establecimiento. Para el #[em retail] es un concepto técnico tan importante que perfectamente puede estar incluido dentro de las estrategias en un plan de #[em marketing.]]
+    p.mb-4(data-aos="fade-right") Se refiere al diseño o disposición de los productos (bienes y servicios) en sectores o categorías en el punto de venta del establecimiento. Para el #[em retail] es un concepto técnico tan importante que perfectamente puede estar incluido dentro de las estrategias en un plan de #[em marketing.]
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-md-12.col-12
@@ -372,7 +372,7 @@
             br
             br
             |
-            p En cuanto al mercadeo, el #[em layout] se refiere al emplazamiento de los bienes o servicios en cualquier tipo de establecimiento, o sea, a su organización estratégica con el fin de disminuir el consumo de mano de obra y certificar la correcta exhibición de los artículos. El #[em marketing-layout] tiene como objeto aumentar las ventas por metro cuadrado, agrupando o separando los artículos con base a los criterios de consumo que identifiquen a un determinado mercado. Por ejemplo, en el tema de las estanterías se suele elegir entre dos tipos de layout: rectangular o angular (Martínez, 2016).
+            p En cuanto al mercadeo, el #[em layout] se refiere al emplazamiento de los bienes o servicios en cualquier tipo de establecimiento, o sea, a su organización estratégica con el fin de disminuir el consumo de mano de obra y certificar la correcta exhibición de los artículos. El #[em marketing-layout] tiene como objeto aumentar las ventas por metro cuadrado, agrupando o separando los artículos con base a los criterios de consumo que identifiquen a un determinado mercado. Por ejemplo, en el tema de las estanterías se suele elegir entre dos tipos de #[em layout]: rectangular o angular (Martínez, 2016).
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -393,14 +393,14 @@
                 h5 Figura 12. 
                 | Diseño recto
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/26.png', alt='Muestra un diseño recto que se utiliza en los establecimientos, el cual no permite ver por enciam del mobiliario.')
+                img(src='@/assets/curso/tema2/26.png', alt='Presenta un diseño recto que se utiliza en los establecimientos, el cual no permite ver por enciam del mobiliario.')
           .row.align-items-center
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3.text-left
                 h5 Figura 13. 
                 | Diseño diagonal
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/27.png', alt='Muestra un diseño diagonal del establecimiento, mejorando la visibilidad para los cajeros y clientes.')
+                img(src='@/assets/curso/tema2/27.png', alt='Presenta un diseño diagonal del establecimiento, mejorando la visibilidad para los cajeros y clientes.')
             .col-lg
               h4.text-left Diseño diagonal
               p.text-left Presenta una buena distribución del espacio para los establecimientos de autoservicio o tiendas minoristas.
@@ -416,7 +416,7 @@
                 h5 Figura 14. 
                 | Diseño angular
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/28.png', alt='Muestra un diseño angular del establecimiento, con curvas y ángulos que permiten apreciar mejor los productos.')
+                img(src='@/assets/curso/tema2/28.png', alt='Presenta un diseño angular del establecimiento, con curvas y ángulos que permiten apreciar mejor los productos.')
 
           .row.align-items-center
             .col-auto.mb-3
@@ -424,7 +424,7 @@
                 h5 Figura 15. 
                 | Diseño geométrico
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/29.png', alt='Muestra un diseño para establecimientos con bastidores que permiten mejorar la exhibición.')
+                img(src='@/assets/curso/tema2/29.png', alt='Presenta un diseño para establecimientos con bastidores que permiten mejorar la exhibición.')
             .col-lg
               h4.text-left Diseño geométrico
               p.text-left Es el diseño apropiado para exhibición de ropa o tiendas departamentales.
@@ -438,7 +438,7 @@
                 h5 Figura 16. 
                 | Diseño mixto
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/30.png', alt='Muestra diseños rectos y diagonales de manera funcional.')
+                img(src='@/assets/curso/tema2/30.png', alt='Presenta diseños rectos y diagonales de manera funcional.')
 
     h4.mb-4(data-aos="fade-right") Formatos del #[em layout]
     p.mb-5(data-aos="fade-left") Se distinguen dos (2) categorías principales, #[em layout] con transformación y sin transformación:
@@ -475,7 +475,7 @@
     #t_2_4.titulo-segundo.mb-5
       h2 2.4	La exhibición de productos
 
-    p.mb-4(data-aos="fade-right") #[b Consiste en la selección, ubicación y exposición de los artículos en el punto de venta, de tal forma que llamen la atención de los clientes motivándolos a una acción de compra. Según sea el tamaño y tipo de establecimiento va a condicionar la distribución y exhibición de los productos.]
+    p.mb-4(data-aos="fade-right") Consiste en la selección, ubicación y exposición de los artículos en el punto de venta, de tal forma que llamen la atención de los clientes motivándolos a una acción de compra. Según sea el tamaño y tipo de establecimiento va a condicionar la distribución y exhibición de los productos.
     p.mb-4(data-aos="fade-left") La exposición de los artículos en un almacén o establecimiento se hace mediante el uso de un mobiliario especial que permite mostrar al cliente la mayor cantidad de productos, durante el mayor tiempo posible.
     p.mb-4(data-aos="fade-right") Los objetivos de la exhibición son:
 
@@ -643,7 +643,7 @@
       .col-lg-12.col-12.col-md-12
         figure(data-aos="fade-right").py-2
           .video.mb-1
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/6-iaznLZYTg?si=oai3visTimhXuWqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/6kYW3aYKamI?si=iFiG1rkcI_3qqQ6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
           figcaption Video. Visual #[em Merchandising]
     
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
@@ -653,11 +653,6 @@
       .col-lg-4.col-8.col-md-7.mb-3
         img(alt="" src="@/assets/curso/tema2/41.png")
     
-    .subt.mb-4(data-aos="fade-right")
-      .d-flex.align-items-center.mb-1
-        img(src='@/assets/curso/tema1/ic.svg', alt='')
-        h3.mb-0.ms-2 Tipos de vitrina o escaparate
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
@@ -687,7 +682,12 @@
                 i.fas.fa-circle-check
                 p.mb-0 Iluminación.
 
-    .row.mb-5
+    .subt.mb-5(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/tema1/ic.svg', alt='')
+        h3.mb-0.ms-2 Tipos de vitrina o escaparate
+
+    .row.mb-4
       .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-primario
           .tarjeta.color-acento-botones.bg7.p-4(titulo="Vitrina exterior")
@@ -719,6 +719,8 @@
               .col-lg-8.col-md-12.col-12
                 h4.mb-4 Vitrina interior
                 p.mb-0 Cuando el producto se exhibe dentro de la tienda en una vitrina que está ubicada en la zona caliente.
+    
+    p.mb-5 En cuanto a las vitrinas de tipo exterior, se debe tener tres elementos que resultan vitales:
 
     .cont_5_1.mt-4(data-aos="fade-left")
       .row.justify-content-center
@@ -745,7 +747,7 @@
                 img(src='@/assets/curso/tema2/49.png' alt="")
             .crd_hover_txt--body.colt
               h5.mb-3.text-center El foco
-              p.mt-4.text-white.mb-0.text-centerCentro.mb-5 óptico seleccionado para llamar la atención.
+              p.mt-4.text-white.mb-0.text-center.mb-5 Centro óptico seleccionado para llamar la atención.
     
     separador
     #t_2_6.titulo-segundo.mb-5
@@ -761,7 +763,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
       .col-lg-7
         p.mb-4 Es el conjunto de estrategias y tácticas efectuadas dentro del establecimiento y que tiene como fin buscar el artículo correcto, en la cantidad necesaria, con el precio justo, en el tiempo adecuado, con una presentación visual impactante y dentro de una exhibición sobresaliente. Se refiere a todos los esfuerzos destinados a que el cliente, no solo conozca el producto, sino también, que tome una acción de compra.
-        p.mb-4 El término #[em merchandising], como se conoce en la actualidad, se incrementó con la aparición del autoservicio en Estados Unidos en la década de 1930. Época en la que los establecimientos se dieron cuenta del impacto e influencia que tenían las exhibiciones en el consumidor. Los artículos que estaban exhibidos tenían una mejor respuesta comercial dando comienzo a una serie de investigaciones en el tema, que terminaron por profesionalizar el área. Y fue así como, con el paso de los años, los supermercados comenzaron a usar el merchadising para destacar y promocionar toda la mercancía en sus lugares de venta (Borja, 2021).
+        p.mb-4 El término #[em merchandising], como se conoce en la actualidad, se incrementó con la aparición del autoservicio en Estados Unidos en la década de 1930. Época en la que los establecimientos se dieron cuenta del impacto e influencia que tenían las exhibiciones en el consumidor. Los artículos que estaban exhibidos tenían una mejor respuesta comercial dando comienzo a una serie de investigaciones en el tema, que terminaron por profesionalizar el área. Y fue así como, con el paso de los años, los supermercados comenzaron a usar el #[em merchadising] para destacar y promocionar toda la mercancía en sus lugares de venta (Borja, 2021).
       .col-lg-5.col-9.col-md-9
         img(alt="" src="@/assets/curso/tema2/50.png")
     
@@ -880,7 +882,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 17. 
           | Ciclo de vida del producto
-        img(src="@/assets/curso/tema2/60.svg" alt='Muestra el ciclo de vida de un producto en cuanto a las ventas en el tiempo, inicialmente se realiza una introducción del mismo, se impulsa el crecimiento para lograr la madurez en el ventas, posteriormente muestra un declive.')
+        img(src="@/assets/curso/tema2/60.svg" alt='Presenta el ciclo de vida de un producto en cuanto a las ventas en el tiempo, inicialmente se realiza una introducción del mismo, se impulsa el crecimiento para lograr la madurez en el ventas, posteriormente presenta un declive.')
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -1019,7 +1021,7 @@
             ImagenInfografica.color-primario
               template(v-slot:imagen)
                 figure
-                  img(src='@/assets/curso/tema2/71.svg', alt='La infografía muestra los elementos de seguridad y señalización relacionados con los colores. El verde se utiliza para indicar condiciones de seguridad, principalmente en señales de rutas de evacuación y emergencia. Su contraste es verde-blanco y su forma es rectangular. El rojo se emplea para señales de prohibición, prevención de fuego, equipo contra incendios y paradas de emergencia. Su contraste es rojo-blanco y puede tener formas circulares o rectangulares. El azul indica acción del mando y obligación de usar equipo de protección. Es de seguridad cuando se presenta en forma circular, con un contraste azul-blanco. El amarillo se utiliza para advertir precaución y riesgo de peligro. Su contraste es amarillo-negro y su forma es triangular.')
+                  img(src='@/assets/curso/tema2/71.svg', alt='La infografía presenta los elementos de seguridad y señalización relacionados con los colores. El verde se utiliza para indicar condiciones de seguridad, principalmente en señales de rutas de evacuación y emergencia. Su contraste es verde-blanco y su forma es rectangular. El rojo se emplea para señales de prohibición, prevención de fuego, equipo contra incendios y paradas de emergencia. Su contraste es rojo-blanco y puede tener formas circulares o rectangulares. El azul indica acción del mando y obligación de usar equipo de protección. Es de seguridad cuando se presenta en forma circular, con un contraste azul-blanco. El amarillo se utiliza para advertir precaución y riesgo de peligro. Su contraste es amarillo-negro y su forma es triangular.')
               .tarjeta.colore1.p-4(x="5%" y="39%" numero="")
                 .mb-3.verde
                 p.mb-4 Condición de seguridad, su uso es principalmente para señales de ruta de evacuación y emergencia.
@@ -1067,7 +1069,7 @@
               .col-lg-12
                 p.mb-4 #[b Organizar el local para evitar los robos]
                 p.mb-4 Mantener el establecimiento ordenado es crucial para prevenir robos en el punto de venta, ya que permite una visión clara de todo el espacio. Esto facilita la detección rápida de cualquier faltante, ya que el espacio vacío indicará la ausencia de un artículo. Es esencial conocer a fondo el punto de venta.
-                p.mb-0 #[b Es importante considerar la ubicación de las cajas registradoras:]  ¿están situadas en lugares que permitan una visión clara de las entradas y salidas del establecimiento? Un análisis detallado del espacio ayuda a identificar y prevenir posibles riesgos de robo. Además, para eliminar los puntos ciegos, se pueden instalar espejos estratégicamente y elegir el mobiliario adecuado que no interfiera con la visibilidad del área de venta.
+                p.mb-0 Es importante considerar la ubicación de las cajas registradoras:  ¿están situadas en lugares que permitan una visión clara de las entradas y salidas del establecimiento? Un análisis detallado del espacio ayuda a identificar y prevenir posibles riesgos de robo. Además, para eliminar los puntos ciegos, se pueden instalar espejos estratégicamente y elegir el mobiliario adecuado que no interfiera con la visibilidad del área de venta.
           .tarjeta.color-acento-botones.bg7.p-4(titulo="Aportar")
             .row.justify-content-center.align-items-center
               .col-lg-12
@@ -1101,7 +1103,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10.col-md-12.col-12
         .cajon.color-acento-contenido.p-4
-          p.mb-0 #[b Para evitar robos de artículos en el punto de venta se deben tener en cuenta los siguientes consejos, de esta forma, el negocio permanecerá seguro.]
+          p.mb-0 Para evitar robos de artículos en el punto de venta se deben tener en cuenta los siguientes consejos, de esta forma, el negocio permanecerá seguro.
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -1151,7 +1153,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10.col-md-12.col-12
         .cajon.color-acento-contenido.p-4
-          p.mb-0 #[b Tener estos sistemas de seguridad le permitirá al establecimiento tener mejores garantías de obtener la rentabilidad esperada, porque reducen notablemente los intentos de robo de mercancía (Vidal, Mas y González, 2011).]
+          p.mb-0 Tener estos sistemas de seguridad le permitirá al establecimiento tener mejores garantías de obtener la rentabilidad esperada, porque reducen notablemente los intentos de robo de mercancía (Vidal, Mas y González, 2011).
 
 </template>
 
