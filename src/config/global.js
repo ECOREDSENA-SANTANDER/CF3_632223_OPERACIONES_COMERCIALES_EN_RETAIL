@@ -169,7 +169,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF3_632223_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -380,7 +380,7 @@ export default {
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
