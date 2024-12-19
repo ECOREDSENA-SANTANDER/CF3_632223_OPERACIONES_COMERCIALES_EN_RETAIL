@@ -32,13 +32,11 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-md-12.col-12.mb-4
-        .titulo-sexto.color-secundario.mb-4
-          h5 Figura 7. 
-          | Estructura del surtido
+        
         ImagenInfografica.color-primario
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema2/3.jpg', alt='Se presenta la clasificación o estructura del surtido consiste en organizar los artículos en grupos o niveles para facilitar su clasificación, identificación y gestión estratégica.')
+                img(src='@/assets/curso/tema2/3.jpg', alt='')
             .tarjeta.colore.p-4(x="5%" y="85.2%" numero="")
               .h5.mb-2 Subfamilias
               p Se refiere a artículos similares pero que tienen una ligera diferencia, como, por ejemplo: yogures naturales sin azúcar, azucarados o con frutas. La subfamilia para la higiene infantil serían pañales, copitos, champú para niños, lociones, cremas, etc.
@@ -125,7 +123,7 @@
                 p.mb-4 Es cuando un establecimiento comercial quiere satisfacer de manera amplia una gran variedad de necesidades. Para ello, debe haber muchas familias y que cada familia posea muchas referencias.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 8. 
+                  h5 Figura 7. 
                   | Surtido amplio y profundo
                 img(alt="Presenta cuando un establecimiento comercial busca satisfacer una amplia gama de necesidades, ofreciendo a profundidad muchas familias de productos, cada una con numerosas referencias." src="@/assets/curso/tema2/8.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
@@ -134,7 +132,7 @@
                 p.mb-4 Muy normal en autoservicios y tiendas de descuento. Se da cuando el establecimiento tiene muchas familias y cada familia posee poca variedad de artículos.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 9. 
+                  h5 Figura 8. 
                   | Surtido amplio y poco profundo
                 img(alt="Presenta cuando el establecimiento ofrece muchas familias de productos, pero cada familia tiene una variedad limitada de artículos." src="@/assets/curso/tema2/9.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
@@ -143,7 +141,7 @@
                 p.mb-4 Muy normal en tiendas especializadas, porque presenta buena variedad de productos, pero solo para algunas familias específicas. Por ejemplo, las tiendas de electrodomésticos.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 10. 
+                  h5 Figura 9. 
                   | Surtido estrecho y profundo
                 img(alt="Presenta  buena variedad de productos, pero solo en algunas familias específicas, como en las tiendas de electrodomésticos." src="@/assets/curso/tema2/10.svg")
             .row.justify-content-center.align-items-center.p-0.p-lg-4
@@ -152,7 +150,7 @@
                 p.mb-4 Muy normal en las tiendas tradicionales de barrio. Se da cuando el establecimiento posee pocas familias y pocas referencias. Otro ejemplo son los concesionarios de autos.
               .col-lg-5
                 .titulo-sexto.color-secundario.mb-3
-                  h5 Figura 11. 
+                  h5 Figura 10. 
                   | Surtido estrecho y poco profundo
                 img(alt="Presenta cuando el  establecimiento tiene pocas familias y pocas referencias." src="@/assets/curso/tema2/11.svg")
     
@@ -390,14 +388,14 @@
               p Normalmente usado en establecimientos que tienen venta al por menor. Puede confundir y frustrar, porque no se puede ver por encima del mobiliario; es más económico.
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3
-                h5 Figura 12. 
+                h5 Figura 11. 
                 | Diseño recto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/26.png', alt='Presenta un diseño recto que se utiliza en los establecimientos, el cual no permite ver por enciam del mobiliario.')
           .row.align-items-center
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3.text-left
-                h5 Figura 13. 
+                h5 Figura 12. 
                 | Diseño diagonal
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/27.png', alt='Presenta un diseño diagonal del establecimiento, mejorando la visibilidad para los cajeros y clientes.')
@@ -413,7 +411,7 @@
               p Es el más costoso por las curvas y los ángulos de los muebles.
             .col-auto
               .titulo-sexto.color-secundario.mb-3
-                h5 Figura 14. 
+                h5 Figura 13. 
                 | Diseño angular
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/28.png', alt='Presenta un diseño angular del establecimiento, con curvas y ángulos que permiten apreciar mejor los productos.')
@@ -421,7 +419,7 @@
           .row.align-items-center
             .col-auto.mb-3
               .titulo-sexto.color-secundario.mb-3.text-left
-                h5 Figura 15. 
+                h5 Figura 14. 
                 | Diseño geométrico
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/29.png', alt='Presenta un diseño para establecimientos con bastidores que permiten mejorar la exhibición.')
@@ -435,7 +433,7 @@
               p Integra diseños rectos, diagonales y con ángulos planos para generar un diseño funcional. Mueve el tráfico hacia los muros y el fondo del establecimiento.
             .col-auto
               .titulo-sexto.color-secundario.mb-3
-                h5 Figura 16. 
+                h5 Figura 15. 
                 | Diseño mixto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/30.png', alt='Presenta diseños rectos y diagonales de manera funcional.')
@@ -880,7 +878,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8
         .titulo-sexto.color-secundario.mb-4
-          h5 Figura 17. 
+          h5 Figura 16. 
           | Ciclo de vida del producto
         img(src="@/assets/curso/tema2/60.svg" alt='Presenta el ciclo de vida de un producto en cuanto a las ventas en el tiempo, inicialmente se realiza una introducción del mismo, se impulsa el crecimiento para lograr la madurez en el ventas, posteriormente presenta un declive.')
 
@@ -1013,39 +1011,37 @@
               
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-12.col-md-12.col-12.mb-4
-        .titulo-sexto.color-secundario.mb-5
-          h5 Figura 18. 
-          | Señalizaciones
+        
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-6.col-md-12.col-12.mb-4
             ImagenInfografica.color-primario
               template(v-slot:imagen)
                 figure
-                  img(src='@/assets/curso/tema2/71.svg', alt='La infografía presenta los elementos de seguridad y señalización relacionados con los colores. El verde se utiliza para indicar condiciones de seguridad, principalmente en señales de rutas de evacuación y emergencia. Su contraste es verde-blanco y su forma es rectangular. El rojo se emplea para señales de prohibición, prevención de fuego, equipo contra incendios y paradas de emergencia. Su contraste es rojo-blanco y puede tener formas circulares o rectangulares. El azul indica acción del mando y obligación de usar equipo de protección. Es de seguridad cuando se presenta en forma circular, con un contraste azul-blanco. El amarillo se utiliza para advertir precaución y riesgo de peligro. Su contraste es amarillo-negro y su forma es triangular.')
+                  img(src='@/assets/curso/tema2/71.svg', alt='')
               .tarjeta.colore1.p-4(x="5%" y="39%" numero="")
                 .mb-3.verde
                 p.mb-4 Condición de seguridad, su uso es principalmente para señales de ruta de evacuación y emergencia.
                 p.mb-0 Contraste: Verde - Blanco
                 p.mb-0 Forma: Rectangular
-                p.mb-0 El color verde cubrirá por lo menos el 50% del área de la señal.
+                p.mb-0 El color verde cubrirá por lo menos el 50 % del área de la señal.
               .tarjeta.colore2.p-4(x="32%" y="10%" numero="")
                 .mb-3.rojo
                 p.mb-4 Prohibición, prevención de fuego, equipo contra incendios, paradas de emergencia.
                 p.mb-0 Contraste: Rojo - Blanco
                 p.mb-0 Forma: Circular - Rectangular
-                p.mb-0 El color rojo, cubrirá por lo menos el 35% del área de la señal.
+                p.mb-0 El color rojo, cubrirá por lo menos el 35 % del área de la señal.
               .tarjeta.colore3.p-4(x="66%" y="10%" numero="")
                 .mb-3.azul
                 p.mb-4 Acción del mando, obligación a usar equipo de protección. Es de seguridad cuando se usa en forma circular.
                 p.mb-0 Contraste: Azul - Blanco
                 p.mb-0 Forma: Circular
-                p.mb-0 El color azul, cubrirá mínimo el 50% del área de la señal.
+                p.mb-0 El color azul, cubrirá mínimo el 50 % del área de la señal.
               .tarjeta.colore4.p-4(x="90.5%" y="39%" numero="")
                 .mb-3.amarillo
                 p.mb-4 Se usa para advertir precaución y riesgo de peligro.
                 p.mb-0 Contraste: Amarillo - Negro
                 p.mb-0 Forma: Triangular
-                p.mb-0 El color amarillo, cubrirá mínimo el 50% del área de la señal.
+                p.mb-0 El color amarillo, cubrirá mínimo el 50 % del área de la señal.
     
     p.mb-5(data-aos="fade-right") Por otro lado, existe la señalética propia de cada almacén, empresa o establecimiento.
     
